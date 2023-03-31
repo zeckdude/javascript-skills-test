@@ -57,7 +57,7 @@ This repo uses the [Vitest](https://vitest.dev/) test framework.
 
 # Todos
 
-If you have any suggestiong to improve this repo, check out the
+If you have any suggesting to improve this repo, check out the
 [issues](https://github.com/zeckdude/javascript-skills-test/issues) for details,
 pull requests welcome!
 
