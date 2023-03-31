@@ -66,6 +66,6 @@ pull requests welcome!
 Copyright &copy; 2023 Chris Seckler with many thanks to several
 [contributors](https://github.com/zeckdude/javascript-skills-test/graphs/contributors).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+<a rel="license" href="https://opensource.org/license/mit/"><img alt="MIT License" style="border-width:0; width: 50px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7195e121-eded-45cf-9aab-909deebd81b2/d9ur2lg-28410b47-58fd-4a48-9b67-49c0f56c68ce.png" /></a>
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="https://opensource.org/license/mit/">MIT License</a>.
