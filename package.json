@@ -1,0 +1,24 @@
+{
+  "author": "Chris Seckler <zeckdude@gmail.com>",
+  "name": "javascript-skills-test",
+  "description": "A test-driven assessment of modern JavaScript skills",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeckdude/javascript-skills-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeckdude/javascript-skills-test/issues"
+  },
+  "devDependencies": {
+    "@vitest/ui": "^0.29.8",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "vitest": "^0.29.8"
+  },
+  "scripts": {
+    "test": "vitest --ui",
+    "test:cli": "vitest --ui"
+  }
+}
