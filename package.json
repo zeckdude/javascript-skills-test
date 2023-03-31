@@ -19,6 +19,6 @@
   },
   "scripts": {
     "test": "vitest --ui",
-    "test:cli": "vitest --ui"
+    "test:cli": "vitest"
   }
 }
