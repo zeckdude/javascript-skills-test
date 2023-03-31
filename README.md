@@ -19,6 +19,8 @@ directory of the repo, run:
 You can then view the tests in your browser at
 [http://localhost:51204/__vitest__/](http://localhost:51204/__vitest__/).
 
+<img width="1726" alt="Screen Shot 2023-03-30 at 6 59 35 PM" src="https://user-images.githubusercontent.com/947856/229036305-b8987830-29d8-425b-ab86-4d43db28e25a.png">
+
 When you visit that page, all of the tests should be failing; your job is to
 get the tests to pass. To do this, you'll need to refer to the tests in the
 files in the `tests` directory, and edit the files in the `code` directory.
@@ -28,6 +30,8 @@ whether it worked.
 You can also run the tests on the command line:
 
     yarn test:cli
+    
+<img width="512" alt="Screen Shot 2023-03-30 at 11 06 10 PM" src="https://user-images.githubusercontent.com/947856/229037368-1a56c78c-0d4c-4e2a-b507-66d5f448e36f.png">
 
 ## I want to contribute tests; what do I do?
 
